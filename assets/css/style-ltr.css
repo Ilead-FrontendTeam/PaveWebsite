@@ -822,7 +822,7 @@ header .navi nav .nav-item .nav-link {
   background-size: cover;
   padding: 5% 0%;
   position: relative;
-  min-height: 75vh;
+  min-height: 561px;
 }
 
 .Testimonials .Testimonials-overlay {
